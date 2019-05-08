@@ -1,5 +1,5 @@
 
-addpath(genpath('/media/o/Permanent/wehkamp/coilSimulation'))
+addpath(genpath('/src'))
 close all
 
 zPos = 0;
